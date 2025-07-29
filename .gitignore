@@ -2,4 +2,3 @@
 __pycache__/
 transcription_output.txt
 .env
-*.mp3
